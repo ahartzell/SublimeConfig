@@ -1,0 +1,22 @@
+{
+	"added_words":
+	[
+		"metadata",
+		"Veristand"
+	],
+	"auto_complete": true,
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"draw_white_space": "all",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Better Ruby",
+		"Vintage"
+	],
+	"spell_check": true,
+	"tab_size": 2,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
+}

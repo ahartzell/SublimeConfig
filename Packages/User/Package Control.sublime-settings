@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"Alignment",
+		"ApplySyntax",
+		"Better Ruby",
+		"Compare Side-By-Side",
+		"HexViewer",
+		"INI",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Soda SolarizedDark",
+		"Theme - Solarized Space",
+		"TortoiseSVN"
+	],
+	"repositories":
+	[
+		"https://gist.githubusercontent.com/fnando/56393d3900af55bf9e94/raw/repositories.json"
+	]
+}

@@ -1,0 +1,4 @@
+[
+{ "keys": ["alt+z"], "command": "toggle_setting", "args": {"setting": "word_wrap"}},
+{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
+]
