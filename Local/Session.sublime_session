@@ -1,9 +1,11 @@
 {
 	"folder_history":
 	[
+		"/E/",
+		"/C/Script"
 	],
 	"last_version": 3211,
-	"last_window_id": 5,
+	"last_window_id": 9,
 	"log_indexing": false,
 	"settings":
 	{
@@ -539,6 +541,10 @@
 				"selected_items":
 				[
 					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
 						"hex",
 						"HexViewer: Toggle Hex View"
 					],
@@ -643,6 +649,16 @@
 			},
 			"file_history":
 			[
+				"/D/Dropbox/DELETE/20_24_31.86310.txt",
+				"/E/recovery.cmdline",
+				"/E/wpa_supplicant.conf",
+				"/E/ssh",
+				"/C/Script/DropboxBackup/DropboxBackup.bat",
+				"/C/Script/SublimeScriptProject.sublime-project",
+				"/H/Id.txt",
+				"/H/Garmin/GPX/Current/Current.gpx",
+				"/H/Garmin/GPX/Track_2020-05-18 102249.gpx",
+				"/C/Users/ahart/AppData/Roaming/Sublime Text 3/README.md",
 				"/C/SVNRepo/WFIRST/SVN/SensorSide/Configs/MAIN.ini",
 				"/C/SVNRepo/WFIRST/SVN/SensorSide/Configs/Launcher.ini",
 				"/C/SVNRepo/WFIRST/SVN/SensorSide/Configs/AI_Analysis2.ini",
@@ -760,28 +776,17 @@
 				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-10_15-36-05.547438.txt",
 				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-03_10-14-15.884595.txt",
 				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-07_07-48-34.741963.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-10_13-01-32.543732.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-10_12-55-31.284021.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-10_12-25-36.487619.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-10_13-10-32.836429.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Configs/UART0.ini",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-09_11-53-26.611291.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-09_12-02-15.426005.txt",
-				"/C/SVNRepo/ES_Test_2/Ninkasi (Project Level)/PCE_Box_STE/STE_Cert/COSMOS/config/targets/PCE_MAIN/cmd_tlm_server.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-09-30_12-11-32.897719.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-03_10-18-10.264029.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Cosmos/procedures/FQT_HelperFuncitons.rb"
+				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-10_13-01-32.543732.txt"
 			],
 			"find":
 			{
-				"height": 40.0
+				"height": 28.0
 			},
 			"find_in_files":
 			{
 				"height": 205.0,
 				"where_history":
 				[
-					"C:\\SVNRepo\\ninkasi_box_ste\\srv-svn\\trunk\\PGCE_DIAG_STE\\Cosmos\\procedures"
 				]
 			},
 			"find_state":
@@ -789,134 +794,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"error",
-					"sample_rate",
-					"sample",
-					"progressbar",
-					"progress",
-					"progress ",
-					"@functionName",
-					"$funcitonName",
-					"functionName",
-					"jitter",
-					"GainAdjustResults",
-					"\\s",
-					"gainadjuststatus",
-					"\\s",
-					"gainadjustre",
-					"gainadjust",
-					"\\s",
-					"Test_manager",
-					"\\s",
-					"sswStatus",
-					"\\s",
-					"gain adjust",
-					"Gain adjust attempt",
-					"gain adjust",
-					"gain adjust attempt",
-					"\\s",
-					"UTILITES",
-					"Utilites",
-					"utilites",
-					"Idle",
-					"error(",
-					"\\s",
-					"UART0:WriteData{\"MemBusWriteCMD\",[4",
-					"UART",
-					"\\s",
-					"TMA_01150",
-					"\\s",
-					"cursor",
-					"error(",
-					"\\s",
-					"Error(1",
-					"\\s",
-					"Error(1",
-					"Error",
-					"eRROR",
-					"JITTER:e",
-					"JITTER",
-					"error(1",
-					"error",
-					"(1)",
-					"\\s",
-					"(1)",
-					"JITTER",
-					"error(",
-					"error",
-					"\\s",
-					"gain adu",
-					"\\s",
-					"test085",
-					"\\s",
-					"Data Acquired: ",
-					"Data Acquired:",
-					"Data Acquired",
-					"\\s",
-					"data acquired",
-					"\\s",
-					"TMA_011",
-					"TMA_01100",
-					"TMA_01150",
-					"dataLogNameCheck",
-					"log",
-					"jitter",
-					"begin",
-					"USERPROVIDED",
-					"\\s",
-					"aborttest",
-					"Gain adjust attempt",
-					"\\s",
-					"[i]",
-					"utilites",
-					"start",
-					"\\s",
-					"shot",
-					"screen",
-					"\\s",
-					"2020",
-					"dataLogNameCheck",
-					"\\s",
-					"test060",
-					"TMA_01090",
-					"01090",
-					"\\s",
-					"else",
-					"log",
-					"\\s",
-					"NCOFreqGainStatus",
-					"\\s",
-					"datalog",
-					"\\s",
-					"SSWStatus",
-					"\\s",
-					"sswS",
-					"\\s",
-					"NCOFre",
-					"\\s",
-					"Test_Manager",
-					"progresBarVerification",
-					"progress",
-					"JITTER",
-					"detrendCheck",
-					"jitter",
-					"DATAPROCESSORCONFIGURATION",
-					"configTMA",
-					"TIMESTAMPERRORCONFIG",
-					"jitter",
-					"\\s",
-					"datalog",
-					"DataLogPath",
-					"comment",
-					"comments",
-					"detrend",
-					"1050",
-					"dlb",
-					"Test_Manager",
-					"timestamp",
-					"jitter",
-					"standardWaitTime",
-					"Test_manager"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -924,64 +801,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"$functionName",
-					"@functionName",
-					" ",
-					"PGCEDiagSoftware",
-					" ",
-					"dataAcqStatus",
-					" ",
-					"",
-					" ",
-					"",
-					" ",
-					"PGCEDIAGSOFTWARE",
-					" ",
-					"PGCEDiagSoftware",
-					"$standardWaitTime",
-					"PGCEDIAGSOFTWARE",
-					"UARTFileWrite",
-					"UART0",
-					"PGCEDiagSoftware",
-					"$signalName",
-					"PGCEDIAGSOFTWARE",
-					"PGCEDiagSoftware",
-					"'JIT_",
-					"'JIT",
-					"$standardWaitTime",
-					"",
-					"dataPacketOrder",
-					"myPreFix",
-					"myTestComment",
-					"freqList",
-					"settlingTime",
-					"maxAttemts",
-					"gainFactorDecrease",
-					"gainFactorIncrease",
-					"ainFactorIncrease",
-					"iniDistAmp",
-					"dataPacketOrder",
-					"ncoGainAdd",
-					"ncoCtrlAdd",
-					"myPreFix",
-					"myTestComment",
-					"dataPacketOrder",
-					"UART1",
-					"UART0",
-					" ",
-					"standardWait",
-					"signalName",
-					"numOfAverages",
-					"averageMode",
-					"numSamples",
-					",$standardWait",
-					"'#{setPlotType[j]}'",
-					"SINESWEEP",
-					",$standardWaitTime)",
-					"$standardWaitTime",
-					"Test_Manager",
-					"signalName",
-					"standardWaitTime"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -991,7 +810,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 24.0
+				"height": 28.0
 			},
 			"input":
 			{
@@ -1009,7 +828,7 @@
 			"pinned_build_system": "Packages/Python/Python.sublime-build",
 			"replace":
 			{
-				"height": 44.0
+				"height": 52.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1053,7 +872,7 @@
 			{
 			}
 		},
-		"new_window_width": 638.0
+		"new_window_width": 2262.0
 	},
 	"windows":
 	[
@@ -1578,6 +1397,26 @@
 			},
 			"buffers":
 			[
+				{
+					"contents": "page 19: Structural repairs\n\n\n2020 June  $10,491.41    $14,728.93    $(4,237.52)\n2020 July  $15,230.03    $9,012.59   $6,217.44 \n2020 August  $10,521.42    $12,040.87    $(1,519.45)\n\n\n Costs  \nCar Insurance  $170.00 \nMortgage   $2,735.60 \nDay Care   $1,800.00 \nGroceries  $1,000.00 \nEntertainment  $60.00 \nCar Payment  $376.00 \nOut To Eat   $400.00 \nGas  $100.00 \nUtlites  $200.00 \nPhone  $120.00 \nInternet   $60.00 \n  \nTotal  $7,021.60 \n\n",
+					"settings":
+					{
+						"buffer_size": 439,
+						"line_ending": "Windows",
+						"name": "page 19: Structural repairs"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nPackage Control\n---------------\n\n  Version 3.4.0 Release Notes\n  \n   -----------------------------------------------------------------------\n  | NOTICE: This will be the final release of Package Control supporting  |\n  | - Sublime Text 2                                                      |\n  | - Sublime Text 3 beta builds (<3143)                                  |\n   -----------------------------------------------------------------------\n  | Please see https://sublimetext.com for an updated build               |\n   -----------------------------------------------------------------------\n  \n  New features include:\n  \n   - Support for repositories hosted on https://gitlab.com - by TheSecEng\n  \n   - An alternative TLS implementation based on the oscrypto Python\n     library, which uses native operating system TLS libraries and\n     certificate handling. See the \"downloader_precedence\" setting to enable.\n  \n   - Preferences now use the side-by-side edit mode\n  \n   - Added command palette entries to enable and disable debug mode for\n     troubleshooting and bug reports\n  \n  Bug fixes include:\n  \n   - Fixed operation on macOS 11.0 Big Sur - by TheSecEng\n  \n   - Improved handling of invalid dependencies - by deathaxe\n  \n   - Corrected handling of unsuccessful downloads with wget - by deathaxe\n  \n   - Fixed various issues with the HTTP caching - by deathaxe\n  \n   - Updated the BitBucket provider to use the 2.0 API - deathaxe\n  \n   - Packages installed via symlinks are now unlinked instead of being\n     deleted when being removed or cleaned up - by rchl\n  \n   - Improved install performance of packages with large numbers of\n     files - by BenjaminSchaaf\n  \n   - Fixed handling of auth with the wininet downloader - by NicholasBuse\n  \n   - Fixed handling BitBucket repositories without a nickname\n  \n   - Resolved deadlocks and ignored packages occuring when removing multiple\n     dependencies at once\n  \n   - Package messages are no longer printed with trailing whitespace on lines\n     with no text - by dnicolson\n",
+					"settings":
+					{
+						"buffer_size": 2087,
+						"line_ending": "Windows",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -1591,12 +1430,12 @@
 				"selected_items":
 				[
 					[
-						"pack",
-						"Package Control: List Packages"
-					],
-					[
 						"hex",
 						"HexViewer: Toggle Hex View"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
 					],
 					[
 						"he",
@@ -1699,6 +1538,20 @@
 			},
 			"file_history":
 			[
+				"/C/Users/ahart/Downloads/NOOBS_v3_4_0/INSTRUCTIONS-README.txt",
+				"/Z/Lightning/Adam Hartzell/Cygwin Commands_Scripts/InstallRSAkey.sh",
+				"/Z/Lightning/Controls/Powershell Scripts/Last100Pings.ps1",
+				"/Z/.TPDLNA/files.db",
+				"/E/wpa_supplicant.conf",
+				"/E/INSTRUCTIONS-README.txt",
+				"/E/recovery.cmdline",
+				"/D/Dropbox/DELETE/20_24_31.86310.txt",
+				"/E/ssh",
+				"/C/Script/DropboxBackup/DropboxBackup.bat",
+				"/C/Script/SublimeScriptProject.sublime-project",
+				"/H/Id.txt",
+				"/H/Garmin/GPX/Current/Current.gpx",
+				"/H/Garmin/GPX/Track_2020-05-18 102249.gpx",
 				"/C/Users/ahart/AppData/Roaming/Sublime Text 3/README.md",
 				"/C/SVNRepo/WFIRST/SVN/SensorSide/Configs/MAIN.ini",
 				"/C/SVNRepo/WFIRST/SVN/SensorSide/Configs/Launcher.ini",
@@ -1812,21 +1665,7 @@
 				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-11_06-44-48.787842.txt",
 				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-10_14-34-10.689289.txt",
 				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-10_15-25-39.550411.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-10_15-06-44.669548.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-10_15-44-27.969883.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-10_15-36-05.547438.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-03_10-14-15.884595.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-07_07-48-34.741963.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-10_13-01-32.543732.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-10_12-55-31.284021.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-10_12-25-36.487619.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-10_13-10-32.836429.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Configs/UART0.ini",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-09_11-53-26.611291.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-09_12-02-15.426005.txt",
-				"/C/SVNRepo/ES_Test_2/Ninkasi (Project Level)/PCE_Box_STE/STE_Cert/COSMOS/config/targets/PCE_MAIN/cmd_tlm_server.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-09-30_12-11-32.897719.txt",
-				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-03_10-18-10.264029.txt"
+				"/C/SVNRepo/ninkasi_box_ste/srv-svn/trunk/PGCE_DIAG_STE/Logs/solar_log_2019-10-10_15-06-44.669548.txt"
 			],
 			"find":
 			{
@@ -1844,6 +1683,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"161"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1861,8 +1701,70 @@
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 439,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										439,
+										0
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"auto_name": "page 19: Structural repairs",
+									"default_dir": "C:\\Users\\ahart\\Downloads\\NOOBS_v3_4_0",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2087,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2087,
+										2087
+									]
+								],
+								"settings":
+								{
+									"apply_syntax_touched": true,
+									"auto_indent": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -1906,7 +1808,7 @@
 				"height": 155.0
 			},
 			"pinned_build_system": "Packages/Python/Python.sublime-build",
-			"position": "0,2,3,-1,-1,-1,-1,575,2763,36,3417",
+			"position": "0,0,1,-1,-1,-1,-1,859,16,56,1934",
 			"project": "",
 			"replace":
 			{
@@ -1957,7 +1859,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 5,
+			"window_id": 9,
 			"workspace_name": ""
 		}
 	],
@@ -1965,6 +1867,7 @@
 	{
 		"recent_workspaces":
 		[
+			"/C/Script/SublimeScriptProject.sublime-workspace",
 			"/C/SVNRepo/Ninkasi/SVN/PGCE_DIAG_STE/PGCE_SublimeProject.sublime-workspace",
 			"/C/SVNRepo/WFIRST/SVN/SensorSide/WFIRSTSensorSide.sublime-workspace",
 			"/C/SVNRepo/SOLAR/SVN/2018/AI_Analysis/NI_AI_SublimeProject.sublime-workspace"
