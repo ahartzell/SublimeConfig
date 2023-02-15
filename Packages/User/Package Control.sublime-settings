@@ -15,14 +15,21 @@
 		"Origami",
 		"Package Control",
 		"Pretty JSON",
+		"RawLineEdit",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pyflakes",
+		"SublimeLinter-pylint",
+		"SublimeLinter-ruby",
+		"Terminus",
 		"Theme - Soda SolarizedDark",
 		"Theme - Solarized Space",
-		"TortoiseSVN"
+		"TortoiseSVN",
+		"Visual Studio Dark",
 	],
 	"repositories":
 	[
 		"https://gist.githubusercontent.com/fnando/56393d3900af55bf9e94/raw/repositories.json"
-	]
+	],
 }

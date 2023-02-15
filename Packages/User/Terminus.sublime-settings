@@ -1,0 +1,27 @@
+  {
+        "shell_configs": [
+        {
+            "name": "Cygwin",
+            "cmd": ["C:\\cygwin64\\bin\\bash.exe", "-i", "-l"],
+            "env": {},
+            "enable": true,
+            "default": false,
+            "platforms": ["windows"],
+        },
+        {
+            "name": "Git Bash",
+            "cmd": ["C:/Program Files/git/bin/bash.exe"],
+            "enable": true,
+            "default": true,
+            "platforms": ["windows"],
+        },
+        {
+            "name": "WSL Login Shell",
+            "cmd": "wsl.exe",
+            "env": {},
+            "enable": true,
+            "platforms": ["windows"],
+        }
+    ],
+    "theme": "3024-night",
+}
